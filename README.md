@@ -3,9 +3,7 @@ A basic React application to practice the use of CRUD operations within React vi
 
 ___________________________________________________________________________________________________
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Made with Create React App
 
 ## Available Scripts
 
